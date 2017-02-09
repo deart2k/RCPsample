@@ -26,8 +26,8 @@ Run this command inside the root directory of project:
 After build will be success you will can to find bilds of product for different platforms in folder 
 RCPsample\releng\com.mytest.tycho.product\target\products\
 
-Tycho-linux.gtk.x86_64.zip 
-Tycho-win32.win32.x86.zip
-Tycho-linux.gtk.x86.zip
-Tycho-macosx.cocoa.x86_64.zip
-Tycho-win32.win32.x86_64.zip
+	Tycho-linux.gtk.x86_64.zip 
+	Tycho-win32.win32.x86.zip
+	Tycho-linux.gtk.x86.zip
+	Tycho-macosx.cocoa.x86_64.zip
+	Tycho-win32.win32.x86_64.zip
